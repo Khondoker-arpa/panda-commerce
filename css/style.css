@@ -1,0 +1,26 @@
+.panda-bg-info{
+   background: #FEEAE9;
+}
+.catagories{
+    width: 100px;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4891 100%);
+    color: #ffff;
+    border-radius: 8px;
+    padding: 9px 25px ;
+    border: none;
+}
+.catagory{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagory-1{
+    background-color: orange
+}
+.catagory-2{
+    background-color: orchid;
+}
+.catagory-3{
+    background-color: blue;
+}
